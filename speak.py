@@ -10,7 +10,8 @@ text = '「もしおれがただ偶然、そしてこうしようというつも
 
 generator = pipeline(
 #    text, voice='jf_alpha', # <= change voice here
-    text, voice='jm_kumo', # <= change voice here
+    text, voice='jf_gongitsune', # <= change voice here
+#    text, voice='jm_kumo', # <= change voice here
 
     speed=1, split_pattern=r'\n+'
 )
