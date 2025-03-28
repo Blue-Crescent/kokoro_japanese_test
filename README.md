@@ -2,7 +2,7 @@
 kokoro tts japanese test
 
 
-Ubuntu 24.04LTS on WSL2
+Ubuntu 24.04.1 LTS on WSL2
 
 ```
 python3 -m venv venv
