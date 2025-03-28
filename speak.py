@@ -9,7 +9,9 @@ pipeline = KPipeline(lang_code='j')
 text = '「もしおれがただ偶然、そしてこうしようというつもりでなくここに立っているのなら、ちょっとばかり絶望するところだな」と、そんなことが彼の頭に思い浮かんだ。'
 
 generator = pipeline(
-    text, voice='jf_alpha', # <= change voice here
+#    text, voice='jf_alpha', # <= change voice here
+    text, voice='jm_kumo', # <= change voice here
+
     speed=1, split_pattern=r'\n+'
 )
 # Alternatively, load voice tensor directly:
