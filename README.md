@@ -10,3 +10,8 @@ sudo apt install -y build-essential cmake libopenblas-dev
 pip3 install -r requirements.txt
 python3 speak.py
 ```
+
+## LINK
+
+https://huggingface.co/hexgrad/Kokoro-82M
+https://github.com/hexgrad/kokoro
