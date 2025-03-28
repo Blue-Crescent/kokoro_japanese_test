@@ -1,6 +1,6 @@
 # kokoro_japanese_test
 kokoro tts japanese test
-
+kokoro テキストtoスピーチ　音声合成の日本語のテストスクリプト
 
 Ubuntu 24.04.1 LTS on WSL2
 
